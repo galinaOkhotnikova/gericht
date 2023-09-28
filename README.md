@@ -6,4 +6,9 @@ This project is a website for a restaurant, built on the React framework. In thi
 
 ## Stack: React, Sass, React-icons
 
-![изображение](https://github.com/galinaOkhotnikova/gericht/assets/71720610/85e86dd8-f671-42c2-ad87-ed8b32c19381)
+![изображение](https://github.com/galinaOkhotnikova/gericht/assets/71720610/e8a29541-0c52-4324-ac34-2f3c6aaa9ee6)
+![изображение](https://github.com/galinaOkhotnikova/gericht/assets/71720610/a698176b-4753-4434-9aa6-5518c81de7a0)
+![изображение](https://github.com/galinaOkhotnikova/gericht/assets/71720610/1707f15c-a24e-4d16-92bb-e1b960504f55)
+
+
+
